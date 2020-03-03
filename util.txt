@@ -3,5 +3,6 @@ let b = 13;
 a = b;
 console.log(a);
 console.log(b);
+console.log(34567)
 
 console.log(12345)
